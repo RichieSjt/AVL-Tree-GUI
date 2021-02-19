@@ -4,8 +4,8 @@ AVL tree graphical user interface developed for the final project of the data st
 ## Functionality
 **A program capable of inserting and deleting nodes into a self-balancing binary tree.**
 
-To run the program simply download the .jar file and execute it. Here you will be able to insert nodes into the tree, 
-the tree is updated automaatically everytime a new node is inserted. You can also delete a node by entering its value, 
+To run the program simply download the .jar file and execute it. Here you will be able to insert nodes into the tree 
+which is updated automatically everytime a new node is inserted. You can also delete a node by entering its value, 
 the tree will remove it and balance itself again.
 
 ## Built with
